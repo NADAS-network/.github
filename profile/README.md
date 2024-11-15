@@ -1,7 +1,7 @@
 # NADAS-network
 
 <p align="center">
-  <img src="NADAS.png" width="200"/>
+  <img src="../NADAS.png" width="200"/>
 </p>
 
 
